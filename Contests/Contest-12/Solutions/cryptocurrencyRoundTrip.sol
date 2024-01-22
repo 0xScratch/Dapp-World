@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-/**
+/*
   @author: @Of3lija (https://dapp-world.com/soul/Of3lija)
   Deploy Gas: 244132
 */

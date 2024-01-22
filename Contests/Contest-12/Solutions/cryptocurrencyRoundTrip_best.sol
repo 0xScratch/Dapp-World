@@ -1,8 +1,9 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-/**
+/*
   @author: @aryanmalik07 (https://dapp-world.com/soul/aryanmalik07)
+  Deploy Gas: 206040
 */
 contract CryptoTrader {
     function roundTrip (
