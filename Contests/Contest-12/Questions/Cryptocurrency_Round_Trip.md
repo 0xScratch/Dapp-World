@@ -27,3 +27,7 @@ If a solution exists, it is guaranteed to be unique.
 | ----------   |  ------------  |          -----------         | --------- |
 |      1       |   roundTrip()  |  ([1,2,3,4,5],[3,4,5,1,2])   |     3     |
 |      2       |   roundTrip()  |       ([2,3,4],[3,4,3])      |     -1    |
+
+## Solve it here
+
+Try your solutions directly on the [platform!](https://dapp-world.com/problem/cryptocurrency-round-trip/problem)

@@ -58,3 +58,7 @@ to the contract and receive an equivalent amount of tokens in return.
 |      Input     |   placeBetOnNumber()  |     Address 2    |  (1000, 12)  |                         |                     |
 |      Input     |   placeBetOnNumber()  |     Address 3    |  (1000, 13)  |                         |                     |
 |      Output    |   checkBetsOnDigit()  |       Owner      |      ()      |                         |   ([<Address 1>,<Address 2>,Address 3>], [11,12,13],[1000,1000,1000])                  |
+
+## Solve it here
+
+Try your solutions directly on the [platform!](https://dapp-world.com/problem/decentralised-roulette/problem)

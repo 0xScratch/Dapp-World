@@ -16,3 +16,7 @@ Your task is to develop a function that removes all vowels from a given string a
 | ----------    | ----------     | -----------     | ----------    |
 |      1        |  removeVowels()|  "HelloWorld"   |    "HllWrld"  |
 |      2        |  removeVowels()|  "AAAAAA"       |    ""         |
+
+## Solve it here
+
+Try your solutions directly on the [platform!](https://dapp-world.com/problem/vowel-removal/problem)
