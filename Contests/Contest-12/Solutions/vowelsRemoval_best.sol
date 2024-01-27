@@ -15,26 +15,6 @@ contract RemoveVowels {
     function removeVowels(string memory _input) public pure returns (string memory){
         uint256 bytelength = bytes(_input).length + 1;         
         string memory output;
-        // uint256 a;
-        // assembly {
-        //     output := mload(0x20)
-        //     mstore(output, 0x20)
-        // }
-        // a = 0;
-        // unchecked {
-        //     for(uint i; i < bytelength; i++) {
-        //         uint8 c = uint8(bytes(_input)[i]) & 223;
-        //         if((c != 65) && (c != 69) && (c != 73) && (c != 79) && (c != 85)) {
-        //             bytes(output)[a] = bytes1(uint8(bytes(_input)[i]));
-        //             a++;
-        //         }
-        //     }
-        // }  
-        // assembly {
-        //     mstore(output, a)
-        // }       
-        // return output;
-
         assembly {
             output := mload(0x20)
             mstore(output, 0x20)
