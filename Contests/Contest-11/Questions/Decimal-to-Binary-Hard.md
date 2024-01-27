@@ -20,3 +20,7 @@ Your contract must implement the following public functions:
 | ----------   |  ------------  |          -----------         | --------- |
 |      1       |   toBinary()   |              -1              |   "11111111"  |
 |      2       |   toBinary()   |              -127              |   "10000001"  |
+
+## Solve it here
+
+Try your solutions directly on the [platform!](https://dapp-world.com/problem/decimal-to-binary-2/problem)

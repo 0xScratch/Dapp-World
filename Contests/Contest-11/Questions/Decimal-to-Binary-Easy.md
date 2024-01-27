@@ -16,3 +16,7 @@ The contract should have the following features:
 | ----------   |  ------------  |          -----------         | --------- |
 |      1       |   toBinary()   |              10              |   "00001010"  |  
 |      2       |   toBinary()   |              25              |   "00011001"  |
+
+## Solve it here
+
+Try your solutions directly on the [platform!](https://dapp-world.com/problem/decimal-to-binary/problem)
