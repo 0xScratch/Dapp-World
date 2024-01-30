@@ -12,7 +12,7 @@ Your contract must implement the following public functions:
 
 ## Input
 
-**toBinary(int n) returns (string)** : This function takes integer as input and converts the input number to its 8-bit binary representation, and return the binary representation as a string.
+***toBinary(int n) returns (string)*** : This function takes integer as input and converts the input number to its 8-bit binary representation, and return the binary representation as a string.
 
 ### Examples
 

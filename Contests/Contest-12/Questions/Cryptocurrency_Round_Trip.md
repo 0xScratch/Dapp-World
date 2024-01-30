@@ -1,4 +1,4 @@
-# Cryptocurrence Round Trip
+# Cryptocurrency Round Trip
 
 You are a cryptocurrency trader with accounts on multiple exchanges. The funds in each exchange are represented by the walletBalances array, and the
 fees associated with transferring funds between exchanges are represented by the networkFeesarray.

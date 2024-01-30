@@ -8,7 +8,7 @@ The contract should have the following features:
 
 ## Input
 
-**toBinary(uint n) returns (string)**: This function takes unsigned integer as input and converts the input number to its 8-bit binary representation, and return the binary representation as a string.
+***toBinary(uint n) returns (string)***: This function takes unsigned integer as input and converts the input number to its 8-bit binary representation, and return the binary representation as a string.
 
 ### Examples
 
