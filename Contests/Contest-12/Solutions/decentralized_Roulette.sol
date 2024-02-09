@@ -72,11 +72,7 @@ contract Roulette {
         unchecked {
             tokens[msg.sender] = tokens[msg.sender] - tokenAmount;
             totalSupply = totalSupply - tokenAmount;
-        }
-        /* no test case ))
-        uint256 amount = (tokenAmount * 1 ether) / 1000;
-        payable(msg.sender).transfer(amount);
-        */
+        } 
     }
 
     function transferWinnings() public {
